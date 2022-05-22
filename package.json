@@ -1,0 +1,35 @@
+{
+    "name": "reveliontheme",
+    "displayName": "RevelionTheme",
+    "description": "Theme insipred by platzi",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Revelion Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Revelion Theme-color-theme.json"
+            }
+        ]
+    },
+    "icon": "./icons/logo_DS.png",
+    "license": "MIT",
+    "author": {
+        "name": "Revelion",
+        "email": "dssh27@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dsaez27/RevelionTheme"
+    },
+    "publisher": "Revelion"
+    
+
+
+}
