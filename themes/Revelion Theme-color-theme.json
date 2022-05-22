@@ -200,7 +200,7 @@
       "name": "js/ts variable.other.constant",
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#cd0a6f"
       }
     },
     {
@@ -613,7 +613,7 @@
       "name": "Classes",
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#cd0a6f"
       }
     },
     {
@@ -729,7 +729,7 @@
       "name": "Meta tag",
       "scope": "meta.tag",
       "settings": {
-        "foreground": "#cd0a6f"
+        "foreground": "#fff"
       }
     },
     {
