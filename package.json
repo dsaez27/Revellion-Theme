@@ -1,8 +1,8 @@
 {
-    "name": "reveliontheme",
-    "displayName": "RevelionTheme",
-    "description": "Theme inspired by platzi theme",
-    "version": "0.5.0",
+    "name": "revelliontheme",
+    "displayName": "Revellion Theme",
+    "description": "Theme for Revellion",
+    "version": "0.5.5",
     "engines": {
         "vscode": "^1.67.0"
     },
@@ -12,24 +12,26 @@
     "contributes": {
         "themes": [
             {
-                "label": "Revelion Theme",
+                "label": "Revellion Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Revelion Theme-color-theme.json"
+                "path": "./themes/Revellion Theme-color-theme.json"
             }
         ]
     },
-    "icon": "./icons/logo_DS.png",
-    "license": "MIT",
+    "icon": "icon.png",
     "author": {
-        "name": "Revelion",
+        "name": "Revellion",
         "email": "dssh27@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/dsaez27/RevelionTheme"
+        "url": "https://github.com/dsaez27/Revellion-Theme"
     },
-    "publisher": "Revelion"
-    
-
-
+    "publisher": "DS",
+    "keywords": [
+        "theme",
+        "revellion",
+        "vscode",
+        "dark"
+    ]
 }
