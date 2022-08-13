@@ -1,3 +1,1 @@
 # Revelion Theme
-##Dark Theme
-

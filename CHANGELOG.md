@@ -4,6 +4,6 @@ All notable changes to the "reveliontheme" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [v0.5.6]
 
 - Initial release
