@@ -33,5 +33,8 @@
         "revellion",
         "vscode",
         "dark"
-    ]
+    ],
+    "scripts": {
+        "test": "node test/validate-theme.js"
+    }
 }
