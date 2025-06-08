@@ -6,6 +6,17 @@ Revellion Theme is a modern dark color theme for Visual Studio Code designed to 
 
 ![Example of code with Revellion Theme](preview.webp)
 
+## Color Palette
+
+| Element | Hex | Description |
+| ------- | --- | ----------- |
+| Background | `#03091e` | Default background for editor and panels |
+| UI Foreground | `#ececec` | General interface text color |
+| Text Foreground | `#ffffff` | Main text color in the editor |
+| Primary Accent | `#81be24` | Used for active elements like the status bar |
+| Secondary Accent | `#c785db` | Highlight color for badges and accents |
+| Selection Background | `#264f78` | Color for selected text |
+
 ## Installation
 
 1. Open Visual Studio Code.
