@@ -1,46 +1,45 @@
 # Revellion Theme for Visual Studio Code
 
-Revellion Theme es un tema de color oscuro moderno para Visual Studio Code, diseñado para proporcionar una experiencia de desarrollo agradable y atractiva.
+Revellion Theme is a modern dark color theme for Visual Studio Code designed to provide a pleasant and attractive development experience.
 
-## Capturas de Pantalla
+## Screenshots
 
-![Ejemplo de código con Revellion Theme](preview.webp)
+![Example of code with Revellion Theme](preview.webp)
 
-## Instalación
+## Installation
 
-1. Abre Visual Studio Code.
-2. Ve a las extensiones (Ctrl + Shift + X).
-3. Busca "Revellion Theme".
-4. Instálalo.
-5. Selecciona "Revellion Theme" en la paleta de temas (Ctrl + K, Ctrl + T).
+1. Open Visual Studio Code.
+2. Go to the extensions view (Ctrl + Shift + X).
+3. Search for "Revellion Theme".
+4. Install it.
+5. Select "Revellion Theme" from the theme palette (Ctrl + K, Ctrl + T).
 
-## Características
+## Features
 
-- **Diseño Moderno:** Colores vibrantes y contrastes cuidadosamente seleccionados para una experiencia de codificación agradable.
-- **Legibilidad:** La paleta de colores ha sido diseñada para mejorar la legibilidad del código.
-- **Compatibilidad:** Compatible con una amplia gama de lenguajes y tecnologías.
+- **Modern Design:** Vibrant colors and carefully selected contrasts for an enjoyable coding experience.
+- **Readability:** The color palette is designed to improve code readability.
+- **Compatibility:** Works with a wide range of languages and technologies.
 
-## Configuración
+## Configuration
 
-Puedes personalizar algunas características del tema editando tu archivo `settings.json`:
+You can customize some aspects of the theme by editing your `settings.json` file:
 
 ```json
 {
   "workbench.colorTheme": "Revellion Theme",
-  // Agrega cualquier configuración adicional aquí
+  // Add any additional configuration here
 }
-
 ```
 
-## Problemas y Contribuciones
-Si encuentras algún problema o tienes sugerencias para mejorar el tema, no dudes en crear un problema o realizar una contribución. ¡Estoy abierto a ideas y colaboraciones!
+## Issues and Contributions
+If you find any problems or have suggestions to improve the theme, feel free to open an issue or contribute. I'm open to ideas and collaborations!
 
-## Licencia
-Este tema está licenciado bajo la Licencia MIT.
+## License
+This theme is licensed under the MIT License.
 
-¡Espero que disfrutes usando Revellion Theme! Si te gusta, no dudes en dejar una ⭐️ en el repositorio.
+I hope you enjoy using Revellion Theme! If you like it, feel free to leave a ⭐️ on the repository.
 
-##
 <div align="center">
-Hecho con ❤️ por dsaez27
+Made with ❤️ by dsaez27
 </div>
+
